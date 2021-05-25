@@ -1,0 +1,162 @@
+.row-header{
+    margin:0px auto;
+    padding:0px;
+}
+
+.row-content {
+    margin:0px auto;
+    padding: 50px 0px 50px 0px;
+    border-bottom: 1px ridge;
+    min-height:400px;
+}
+
+.footer{
+    background-color:black;
+    bottom: 0px;
+    padding: 20px 0px 20px 0px;
+    color: white;
+}
+
+h1{
+    color:black;
+}
+h5{
+    color: white;
+}
+
+.jumbotron {
+    padding:70px 30px 70px 30px;
+    margin:0px auto;
+    background: #9575CD ;
+    color:floralwhite;
+}
+
+address{
+    font-size:80%;
+    margin:0px;
+    color:white;
+}
+body{
+    
+    z-index:0;
+    background-color: #d3d3d3;
+}
+
+.navbar-dark {
+     background-color: #512DA8;
+}
+.onecar {
+    background:#ffe4d3;
+}
+
+.carousel-item {
+  height: 510px;
+  width: 100%;
+}
+
+.carousel-item img {
+    position: right;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+
+.innercar{
+    margin-top: 50%;
+    bottom:50%;
+    margin-left: 35%;
+    text-decoration-color:black;
+}
+
+.innercard img{
+    float:left;
+    height:250px;
+    width:35%;
+}
+
+.innercard{
+    background-color: #d6f7fe;
+     height:300px;
+}
+
+.innercard1{
+    background-color: #ffdbdf;
+    height:300px;
+}
+
+.innercard1 img{
+    float:left;
+    height:250px;
+    width:35%;
+}
+.fa-star{
+    color: #ad9c00;
+}
+
+.fa-star-half{
+    color: #ad9c00;
+}
+.fa-star-o{
+    color: #ad9c00;
+}
+.summer{
+    background-color: #d5d4d0;
+    text-align: left;
+    justify-content: right;
+}
+
+.innercarousel{
+    text-align: center;
+}
+ 
+.anothercar{
+    background-color: #ffabab;
+}
+.final{
+    background-color: #d1485a;
+    height:180px;
+    color:White;
+}
+
+.carousel-control-prev :hover{
+    background-color: #dc3545;
+}
+.carousel-control-next :hover{
+    background-color: #dc3545;
+}
+
+.btn-group text :hover{
+    background-color: #dc3545;
+}
+
+.hover{
+    color: #dc3545;
+}
+
+.list-unstyled{
+    color:white;
+}
+a :hover{
+    color:#dc3545;
+
+}
+
+a{
+    color:white;
+
+}
+
+.verticals {
+    margin-top:3%;
+    border-left: 1px  solid rgb(184, 175, 175);
+    height: 100px;
+    align-items: center;
+  }
+
+.list-unstyled li:hover a{
+    color:red;
+}
+
+.nav-link:hover a{
+    color:red;
+}
